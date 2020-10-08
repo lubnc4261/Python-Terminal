@@ -34,7 +34,7 @@ storage  -   informations about the os / c: drive
 
 tasklist  -  shows all running tasks
 
-iplookup -   looks up a ip
+iplookup -   ip to domain / domain to ip
 
 get mac  -   prints the mac adress
 
