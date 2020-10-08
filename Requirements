@@ -1,0 +1,18 @@
+psitul
+platform
+curses
+GPUtil
+shutil
+fnmatch
+subprocess
+nmap
+sqlite3
+win32crypt
+whois
+speedtest-cli
+colorama
+Crypto
+urllib
+tabulate
+
+installing and working with pip libaries at the time 8.10.2020 with newest updates
