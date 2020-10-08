@@ -14,46 +14,46 @@ listed in the folder
 
 List of all commands so far...
 
-pc          os informations
+pc      -    os informations
 
-cpu         cpu informations
+cpu     -    cpu informations
 
-io          io informations
+io       -   io informations
 
-ram         ram informations
+ram     -    ram informations
 
-gpu         gpu informations in a table
+gpu     -    gpu informations in a table
 
-time        print the current os time
+time    -    print the current os time
 
-net         basic network informations
+net     -    basic network informations
 
-net all     complex network informations
+net all   -  complex network informations
 
-storage     informations about the os / c: drive
+storage  -   informations about the os / c: drive
 
-tasklist    shows all running tasks
+tasklist  -  shows all running tasks
 
-iplookup    looks up a ip
+iplookup -   looks up a ip
 
-get mac     prints the mac adress
+get mac  -   prints the mac adress
 
-webcode     will get the source code of a website
+webcode  -   will get the source code of a website
 
-portscann   basic portscanner (needs a rewrite soon)
+portscann  - basic portscanner (needs a rewrite soon)
 
-google pass will output all chrome saved passwords (without pw reqirement)
+google pass - will output all chrome saved passwords (without pw reqirement)
 
-wlan pass   will output all saved SSID passwords
+wlan pass -  will output all saved SSID passwords
 
-boot info   boot informations
+boot info  - boot informations
 
-whois       outputs whois informations of a domain
+whois   -    outputs whois informations of a domain
 
-int speed   output upload / download speed
+int speed  - output upload / download speed
 
-webopen     opens the URL in the webbrowser
+webopen  -   opens the URL in the webbrowser
 
-pyinfo      outputs python informations
+pyinfo   -   outputs python informations
 
 
