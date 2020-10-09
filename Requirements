@@ -10,12 +10,8 @@ shutil
 fnmatch
 subprocess
 nmap
-sqlite3
-win32crypt
 whois
-speedtest-cli
 colorama
-Crypto
 urllib
 tabulate
 
