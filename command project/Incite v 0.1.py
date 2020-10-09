@@ -123,7 +123,7 @@ def info():
     time.sleep(1)
     print(" ")
     print("Version = 0.2")
-    print("Creator = Lucas Bencych")
+    print("Creator = lubnc4261")
     print("Made in Python 3.8.5 32-bit")
     time.sleep(1)
     start()
