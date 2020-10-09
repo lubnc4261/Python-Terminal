@@ -421,7 +421,7 @@ def welcome():
     print(Fore.LIGHTCYAN_EX + r"                                                       ")
     print(" ")
     print(" ")
-    print(Fore.LIGHTRED_EX + "Python based Command Prompt [Version 0.2]")
+    print(Fore.LIGHTRED_EX + "Python based Command Prompt [Version 0.1]")
     print(Fore.LIGHTRED_EX + "Copyright 2020, lubnc4261, All rights reserved.")
     print(Fore.LIGHTGREEN_EX + "---------------------------------------------------")
     print(Fore.GREEN + "type " + Fore.YELLOW + "'help'" + Fore.GREEN + " for all commands listed")
