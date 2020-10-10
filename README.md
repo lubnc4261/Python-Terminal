@@ -12,7 +12,7 @@ listed in the folder
 
 # Commands
 
-List of all commands so far...
+List of all commands so far... (only documented for the newest version)
 
 pc      -    os informations
 
@@ -43,5 +43,13 @@ boot  - boot informations
 whois   -    outputs whois informations of a domain
 
 pyinfo   -   outputs python informations
+
+tree  -   tree command like in windows
+
+# Newest Version Informations
+
+- input line now shows the user name with a new start letter for commands
+
+- reworked a bit of structure
 
 
