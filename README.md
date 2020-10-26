@@ -28,6 +28,8 @@ time    -    print the current os time
 
 net     -    basic network informations
 
+mass   -   shows everything about the pc
+
 net all   -  complex network informations
 
 storage  -   informations about the os / c: drive
@@ -46,10 +48,28 @@ pyinfo   -   outputs python informations
 
 tree  -   tree command like in windows
 
+filedel  -  delete the file 
+
+dirdel   -   delete a whole directory
+
+pidport   -   list process with used ports
+
+info    -   informations about the programm
+
+help   -    list all commands
+
+cls   -   clear the screen
+
+exit   -   close the programm
+
 # Newest Version Informations
 
-- input line now shows the user name with a new start letter for commands
+- launchtime addded
 
-- reworked a bit of structure
+- more in color
+
+- nice command entry style with logged user name
+
+- welcome screen shows the directory of the script
 
 
