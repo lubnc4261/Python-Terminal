@@ -66,6 +66,12 @@ str to bin  -   text to binary
 
 hex to bin  -   hexadecimal to binary
 
+log  -   opens the log
+
+open  -   opens any supported files 
+
+explorer  -   small explorer
+
 help   -    list all commands
 
 cls   -   clear the screen
