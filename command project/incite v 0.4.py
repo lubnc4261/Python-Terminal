@@ -697,7 +697,7 @@ def explorer():
      
    
        
-    button_explore = Button(window,                     # makes error i dont understand why, but it needs sth. before the (
+    button_explore = Button(window,                     # makes unused variable error i dont understand why, but it needs sth. before the (
                             text = "Browse Files",
                             command = explore)
     
