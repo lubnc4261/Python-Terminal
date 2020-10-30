@@ -30,13 +30,15 @@ net     -    basic network informations
 
 mass   -   shows everything about the pc
 
-net all   -  complex network informations
+net /all   -  complex network informations
 
 storage  -   informations about the os / c: drive
 
 tasklist  -  shows all running tasks
 
 iplookup -   ip to domain / domain to ip
+/domain
+/ip
 
 mac  -   prints the mac adress
 
@@ -56,6 +58,14 @@ pidport   -   list process with used ports
 
 info    -   informations about the programm
 
+num to bin  -  number to binary
+
+bin to num  -   binary to number
+
+str to bin  -   text to binary
+
+hex to bin  -   hexadecimal to binary
+
 help   -    list all commands
 
 cls   -   clear the screen
@@ -64,12 +74,16 @@ exit   -   close the programm
 
 # Newest Version Informations
 
-- launchtime addded
+- launchtime added
 
 - more in color
 
 - nice command entry style with logged user name
 
 - welcome screen shows the directory of the script
+
+- saves opening time to a log.txt file
+
+- more possibilities for other operating systems
 
 
