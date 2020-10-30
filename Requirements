@@ -14,5 +14,6 @@ whois
 colorama
 urllib
 tabulate
+keyboard
 
 installing and working with pip libaries at the time 8.10.2020 with newest updates
