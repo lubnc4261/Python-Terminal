@@ -10,6 +10,8 @@ I want to try to keep everything in one big script
 I will try to make the code better and update it so all Versions will be
 listed in the folder
 
+- subdomains.txt is needed for the subfinder command
+
 # Commands
 
 List of all commands so far... (only documented for the newest version)
@@ -101,5 +103,6 @@ exit   -   close the programm
 # Newest Version Informations
 
 - starts including the function to interact with directories
+
 
 
