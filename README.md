@@ -42,6 +42,8 @@ iplookup -   ip to domain / domain to ip
 
 mac  -   prints the mac adress
 
+mac changer   -   changes the mac adresss (only for linux)
+
 boot  - boot informations
 
 whois   -    outputs whois informations of a domain
@@ -53,6 +55,16 @@ tree  -   tree command like in windows
 filedel  -  delete the file 
 
 dirdel   -   delete a whole directory
+
+cd .  -   goes 1 dir down
+
+cd downloads   -   jumps to the downloads folder
+
+cd desktop    -    jumps to the desktop folder
+
+cd music    -    jumps to the music folder
+
+cd documents   -   jumps to the document folder
 
 pidport   -   list process with used ports
 
@@ -70,6 +82,14 @@ log  -   opens the log
 
 open  -   opens any supported files 
 
+google pass   -   shows all saved chrome passwords
+
+img meta  -   outputs meta data for a photo
+
+ls    -   list all files in dir
+
+ls ext   -  list all files in dir with given extension
+
 explorer  -   small explorer
 
 help   -    list all commands
@@ -80,16 +100,6 @@ exit   -   close the programm
 
 # Newest Version Informations
 
-- launchtime added
-
-- more in color
-
-- nice command entry style with logged user name
-
-- welcome screen shows the directory of the script
-
-- saves opening time to a log.txt file
-
-- more possibilities for other operating systems
+- starts including the function to interact with directories
 
 
